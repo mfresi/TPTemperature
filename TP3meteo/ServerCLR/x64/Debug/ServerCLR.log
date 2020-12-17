@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+z:\tp3meteo\serverclr\consoleapplication1.cpp(12): fatal error C1083: Impossible d'ouvrir le fichier include : 'mysql.h' : No such file or directory
+  K8055.cpp
+  meteo.cpp
+  server.cpp
+z:\tp3meteo\serverclr\server.cpp(72): warning C4806: '==' : opération risquée : aucune valeur de type 'bool' promue en type 'int' ne peut être égale à la constante donnée
+z:\tp3meteo\serverclr\server.cpp(87): warning C4806: '==' : opération risquée : aucune valeur de type 'bool' promue en type 'int' ne peut être égale à la constante donnée
+  Génération de code en cours...

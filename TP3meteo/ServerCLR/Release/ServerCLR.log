@@ -1,0 +1,15 @@
+﻿  ConsoleApplication1.cpp
+z:\tp3meteo\serverclr\consoleapplication1.cpp(45): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+z:\tp3meteo\serverclr\consoleapplication1.cpp(46): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+z:\tp3meteo\serverclr\consoleapplication1.cpp(47): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+z:\tp3meteo\serverclr\consoleapplication1.cpp(39): warning C4101: 'TCP' : variable locale non référencée
+  K8055.cpp
+  meteo.cpp
+  server.cpp
+z:\tp3meteo\serverclr\server.cpp(72): warning C4806: '==' : opération risquée : aucune valeur de type 'bool' promue en type 'int' ne peut être égale à la constante donnée
+z:\tp3meteo\serverclr\server.cpp(87): warning C4806: '==' : opération risquée : aucune valeur de type 'bool' promue en type 'int' ne peut être égale à la constante donnée
+  Génération de code en cours...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+ConsoleApplication1.obj : error LNK2028: jeton non résolu (0A000443) "extern "C" struct st_mysql * __stdcall mysql_init(struct st_mysql *)" (?mysql_init@@$$J14YGPAUst_mysql@@PAU1@@Z) référencé dans la fonction "int __cdecl main(void)" (?main@@$$HYAHXZ)
+ConsoleApplication1.obj : error LNK2019: symbole externe non résolu "extern "C" struct st_mysql * __stdcall mysql_init(struct st_mysql *)" (?mysql_init@@$$J14YGPAUst_mysql@@PAU1@@Z) référencé dans la fonction "int __cdecl main(void)" (?main@@$$HYAHXZ)
+Z:\TP3meteo\Release\TP3meteo.exe : fatal error LNK1120: 2 externes non résolus

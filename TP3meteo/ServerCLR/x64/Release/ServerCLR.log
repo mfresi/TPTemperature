@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+c:\users\mattei\desktop\tp3meteo\serverclr\consoleapplication1.cpp(25): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+c:\users\mattei\desktop\tp3meteo\serverclr\consoleapplication1.cpp(26): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  K8055.cpp
+  meteo.cpp
+  Génération de code en cours...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  ServerCLR.vcxproj -> C:\Users\Mattei\Desktop\TP3meteo\x64\Release\TP3meteo.exe

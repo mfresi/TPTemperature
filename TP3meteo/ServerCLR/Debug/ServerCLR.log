@@ -1,0 +1,15 @@
+﻿E:\visualStudio2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: Le répertoire intermédiaire (Debug\) contient des fichiers partagés provenant d'un autre projet (ServerCLR.vcxproj). Cela peut entraîner un comportement de nettoyage et de régénération incorrect.
+  ConsoleApplication1.cpp
+z:\tp3meteo\serverclr\consoleapplication1.cpp(31): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+z:\tp3meteo\serverclr\consoleapplication1.cpp(32): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+z:\tp3meteo\serverclr\consoleapplication1.cpp(33): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+z:\tp3meteo\serverclr\consoleapplication1.cpp(25): warning C4101: 'TCP' : variable locale non référencée
+  K8055.cpp
+  meteo.cpp
+  server.cpp
+z:\tp3meteo\serverclr\server.cpp(72): warning C4806: '==' : opération risquée : aucune valeur de type 'bool' promue en type 'int' ne peut être égale à la constante donnée
+z:\tp3meteo\serverclr\server.cpp(87): warning C4806: '==' : opération risquée : aucune valeur de type 'bool' promue en type 'int' ne peut être égale à la constante donnée
+  Génération de code en cours...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  ConsoleApplication1.obj : module MSIL détecté ; liens incrémentiels désactivés pour MSIL ; édition de liens complète en cours
+  ServerCLR.vcxproj -> Z:\TP3meteo\Debug\TP3meteo.exe
